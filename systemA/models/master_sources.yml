@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: master
+    schema: master_info
+    tables:
+      - name: customer
+
+
