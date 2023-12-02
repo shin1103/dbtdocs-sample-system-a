@@ -1,0 +1,7 @@
+packages:
+  - git: "https://github.com/shin1103/dbtdocs-sample-system-a.git"
+    subdirectory: "systemA"
+    revision: "main"
+  - git: "https://github.com/shin1103/dbtdocs-sample-system-a.git"
+    subdirectory: "systemB"
+    revision: "main"

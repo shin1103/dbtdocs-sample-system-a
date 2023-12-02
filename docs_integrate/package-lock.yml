@@ -1,0 +1,10 @@
+packages:
+- git: https://github.com/shin1103/dbtdocs-sample-system-a.git
+  revision: 7fffb5d01a920764a8ded9dcea86cd3cac58a8cd
+  subdirectory: systemA
+- git: https://github.com/shin1103/dbtdocs-sample-system-a.git
+  revision: 7fffb5d01a920764a8ded9dcea86cd3cac58a8cd
+  subdirectory: systemB
+- package: dbt-labs/dbt_utils
+  version: 1.1.0
+sha1_hash: dbbba3d4962aa2b0b2734ed016959bb7da010118
